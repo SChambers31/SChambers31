@@ -48,7 +48,7 @@ Supporting product documentation, requirements definition and pilot preparation 
 
 * AWS Cloud Practitioner
 * AI and emerging technology
-* Data and product analytics
+* Workday Essentials
 
 ## Background
 
